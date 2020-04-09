@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Another Hello World
 
-I'm glad you are here. I plan to talk about ...
+Hi! This is my first time using GitHub!
